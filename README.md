@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Cristian 😁
 
  <div>
-   <a href="https://github.com/nyangC0DEX">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyangC0DEX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyangC0DEX&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/cristian-C0DEX">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristian-C0DEX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-C0DEX&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
